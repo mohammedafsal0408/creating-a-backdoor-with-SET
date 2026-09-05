@@ -88,8 +88,6 @@ SET logs the information in the xml file under /root/.set directory:
 
 
 
-## COMMANDS
-
 
 <img width="1845" height="727" alt="image" src="https://github.com/user-attachments/assets/cb575839-44be-4d51-9f00-03fa85942a80" />
 
